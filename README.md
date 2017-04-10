@@ -1,5 +1,8 @@
 # 超棒黑客必备表单 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+ >FROM: [github.com/sunnyelf/awesome-hacking](https://github.com/sunnyelf/awesome-hacking)
+ 
 [English Version](https://github.com/carpedm20/awesome-hacking)
 
 一份精美的黑客必备表单,灵感来自于[超棒的机器学习](https://github.com/josephmisiti/awesome-machine-learning/)，如果您想为此列表做出贡献（欢迎），请在github给我一个pull或联系我[@carpedm20](https://twitter.com/carpedm20)，有关可供下载的免费黑客书籍列表，请点击[此处](https://github.com/Hack-with-Github/Free-Security-eBooks)。
