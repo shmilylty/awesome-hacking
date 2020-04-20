@@ -196,6 +196,7 @@
  * [SECUINSIDE CTF](http://secuinside.com/)
  * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
+ * [HackTheBox](https://www.hackthebox.eu/)
 
 ## 常用
  * [CTFtime.org](https://ctftime.org/)
